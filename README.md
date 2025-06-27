@@ -6,9 +6,9 @@ Computer Science student & developer
 
 *   🌍  I'm based in Boston
 *   ✉️  You can contact me at [umesh.h@northeastern.edu](mailto:umesh.h@northeastern.edu)
-*   👨‍🎓  I'm pursuing my Masters in Computer Science from Northeastern University
+*   👨‍🎓  I Graduated with a Masters in Computer Science from Northeastern University
 *   📎 Open source Contributor
-*   🤝  I'm open to collaborating on Cloud and Kubernetes projects
+*   🤝  I'm open to collaborating on Cloud, Mlops and AI projects
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Harshith-umesh&label=Profile%20views&color=0e75b6&style=flat" alt="Harshith-umesh" /> </p>
