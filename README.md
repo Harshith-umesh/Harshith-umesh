@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 I'm Harshith Umesh</h1>
 
 
-Computer Science student & developer
+Software Engineer at Red Hat
 ------------------------------------
 
 *   🌍  I'm based in Boston
