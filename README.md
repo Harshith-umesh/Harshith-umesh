@@ -4,7 +4,7 @@
 Software Engineer at Red Hat
 ------------------------------------
 
-*   🌍  Software Engineer at Redhat
+*   🌍  Based in Boston
 *   👨‍🎓  I Graduated with a Masters in Computer Science from Northeastern University
 *   📎 Open source Contributor
 *   🤝  I'm open to collaborating on GenAI, Cloud and Mlops projects
